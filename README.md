@@ -1,5 +1,5 @@
 # ML_first_module
-## This implementations include :
+## These implementations include :
 - [x] KNN
 - [x] k-means
 - [x] Linear Regression
